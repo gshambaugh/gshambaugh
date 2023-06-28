@@ -6,5 +6,6 @@ I've had a passion for technology and problem solving ever since I was young, wh
 <h2>📲 Connect With Me: </h2>
 LinkedIn: www.linkedin.com/in/gshambaugh <br>
 Resume: https://github.com/gshambaugh/gshambaugh/blob/2b7bfe0d34ff86e8d125eeaca87afa7124c56c84/GS%20Resume.pdf
+GoogleCertification: https://github.com/gshambaugh/gshambaugh/blob/d40eef4b0b33b42be1ccb1ebd09b969d7625b90e/GoogleCyberCertification.pdf
 <h2>👨‍💻 Cyber Related Projects: </h2>
 
